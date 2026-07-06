@@ -7,8 +7,8 @@ https://bankchurnratepredictorbyleelamajji-8gyekrb53tdyappcvvhfwuf.streamlit.app
 This project predicts whether a bank customer is likely to leave the bank (churn) using Machine Learning.
 
 The model learns from customer details and predicts:
-- ✅ Customer will stay
-- ❌ Customer may churn
+- Customer will stay
+- Customer may churn
 
 A Streamlit web application is created to make predictions easily through an interactive user interface.
 
